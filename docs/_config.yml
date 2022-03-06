@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Logic, Ethics, Life
-email: orlandoroudinesco@gmail.com
+email: metalogou@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Issues in Aristotle and Hegel
 baseurl: "" # the subpath of your site, e.g. /blog
