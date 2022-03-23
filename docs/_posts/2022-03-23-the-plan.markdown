@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: The Plan
 date: 2022-03-23
-permalink: /plan/
+categories:
 ---
 There is a short outline of what I’m aiming at with this project, and how I intend to get there, under the heading “About.” I want to say something longer here about these, because that outline does not say much. On the assumption that any readers will likely be, in some way, trained philosophers, I’m going to begin by placing myself in a field of names. On the assumption that we may misunderstand one another using the same names, I’m going to end by getting clear about the issues that I want to take up.
 
