@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Project
+title: The Plan
 date: 2022-03-23
 categories:
 ---
