@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terms of Art: Metaphysics, Self-Consciousness, Idealism
+title: Terms of Art
 date: 2022-04-05
 categories:
 ---
