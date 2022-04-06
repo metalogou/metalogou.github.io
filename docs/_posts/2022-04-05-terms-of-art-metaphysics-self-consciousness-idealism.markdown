@@ -6,7 +6,7 @@ categories:
 ---
 There are at least five particularly indefinite terms that come up reliably in Hegel and his context: metaphysics, self-consciousness, idealism, reflection, and dialectic.[^1] It is possible in principle to hear what he has to say without making use of these terms, but it is not expedient. I’m going to define them at the outset—in part because it will make further work easier, in part because I think doing so doubles as a good introduction to (or clarification of) Hegel.
 
-This is the first of two entries in which I will define these terms. It will cover the first three. The second will cover the last two. Each term has a long history. I will pay minimal attention to these: at most, I will touch on their origins and some highlights of their historical use, and my choice of highlights will be extremely selective. That my definitions will agree with some historical and present-day uses of these terms, and disagree with others, is deliberate.
+This is the first of two entries in which I will define these terms. It will cover the first three. The second entry will cover the last two. Each term has a long history. I will pay minimal attention to these: at most, I will touch on their origins and some highlights of their historical use, and my choice of highlights will be extremely selective. That my definitions will agree with some historical and present-day uses of these terms, and disagree with others, is deliberate.
 
 ### Metaphysics
 
