@@ -38,13 +38,9 @@ Another reason for the names “logic” and “ethics” are their traditional 
 
 My nearest ancestors in the sort of work I want to do here are Sebastian Rödl and John McDowell. I’ll close with two remarks of theirs which I think bring this aim out well.
 
-<ul>
-"If the human being is the life that thinks, then understanding what the human being is requires understanding what thought is, and understanding what thought is cannot fall short of providing knowledge of what it is to be a human being." (from “Logic, Being, and Nothing”)
-</ul>
+> "If the human being is the life that thinks, then understanding what the human being is requires understanding what thought is, and understanding what thought is cannot fall short of providing knowledge of what it is to be a human being." (from “Logic, Being, and Nothing”)
 
-<ul>
-"We have not properly made sense of forms of words in a language if we have not, thereby, got some way towards making sense of its speakers." (from “On the Sense and Reference of a Proper Name”)
-</ul>
+> "We have not properly made sense of forms of words in a language if we have not, thereby, got some way towards making sense of its speakers." (from “On the Sense and Reference of a Proper Name”)
 
 ### Upcoming
 
