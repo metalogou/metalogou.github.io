@@ -40,7 +40,7 @@ I follow Aristotle here in understanding myself, and those with whom I can speak
 
 ### Idealism
 
-I don’t find this term useful, but my positions are labeled this way by their advocates and detractors alike. I will try to say why I think this is so.
+I don’t find this term useful, but my positions are labeled this way by their supporters and detractors alike. I will try to say why I think this is so.
 
 Bernard Williams, in defending a connection between Wittgenstein’s concerns in the *Tractatus* and *Investigations* and the concerns of Kant and his successors, presents the central thought of "idealism" this way: “[…] what the world is for us is shown by the fact that we can make sense of some things and not others: or rather […] in the fact that some things and not others make sense.” Williams attributes a method to Wittgenstein that is consistent with this thought. Speaking of “our language,”[^19] he says: “[…] we could in a way make it clearer to ourselves, by reflecting on it, as it were self-consciously exercising it; not indeed by considering alternatives—for what I am presently considering can have no comprehensible alternatives to it—but by moving around reflectively inside our view of things and sensing when one began to be near the edge by the increasing incomprehensibility of things regarded from whatever way-out point of view one had moved into. What one would become conscious of, in so reflecting, is something like: *how we go on*. And how we go on is a matter of how we think, and speak, and intentionally and socially conduct ourselves […]” These descriptions, I think, are adequate to the idealisms of both Kant and Hegel.[^20] Where I will speak of idealist concerns or positions, I will speak of these in this sense.
 
