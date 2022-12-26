@@ -16,7 +16,7 @@ A treewise rendering of Charles Ogden's translation of Ludwig Wittgenstein's *Tr
 
 ### Preface
 
-This book will perhaps only be understood by those who have themselves already thought the thoughts whichare expressed in it—or similar thoughts. It is therefore not a text-book. Its object would be attained if it afforded pleasure to one who read it with understanding.
+This book will perhaps only be understood by those who have themselves already thought the thoughts which are expressed in it—or similar thoughts. It is therefore not a text-book. Its object would be attained if it afforded pleasure to one who read it with understanding.
 
 The book deals with the problems of philosophy and shows, as I believe, that the method of formulating these problems rests on the misunderstanding of the logic of our language. Its whole meaning could be summed up somewhat as follows: What can be said at all can be said clearly; and whereof one cannot speak thereof one must be silent.
 
