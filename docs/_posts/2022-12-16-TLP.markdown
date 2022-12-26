@@ -1,16 +1,18 @@
 ---
 layout: post
 title: "Tractatus Logico-Philosophicus"
-date: 2022-04-05
+date:
 categories:
 ---
 A treewise rendering of Charles Ogden's translation of Ludwig Wittgenstein's *Tractatus Logico-Philosophicus*, after Luciano Bazzocchi.
+
 
 ### Motto
 
 <ul>
 "...und alles, was man weiss, nicht bloss rauschen und brausen gehört hat, lässt sich in drei Worten sagen." (Kürnberger)
 </ul>
+
 
 ### Preface
 
@@ -30,9 +32,9 @@ If this work has a value it consists in two things. First that in it thoughts ar
 
 On the other hand the *truth* of the thoughts communicated here seems to me unassailable and definitive. I am, therefore, of the opinion that the problems have in essentials been finally solved. And if I am not mistaken in this, then the value of this work secondly consists in the fact that it shows how little has been done when these problems have been solved.
 
+
 ### Tractatus Logico-Philosophicus
 
-<ol>
 <details><summary> 1. The world is everything that is the case. </summary><blockquote>
 
 
@@ -55,6 +57,6 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
  
 
 </blockquote></details>
-</ol>
+
 
 
