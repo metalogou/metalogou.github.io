@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tractatus Logico-Philosophicus"
-date:
+date: 2022-12-26
 categories:
 ---
 A treewise rendering of Charles Ogden's translation of Ludwig Wittgenstein's *Tractatus Logico-Philosophicus*, after Luciano Bazzocchi.
