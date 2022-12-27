@@ -33,10 +33,10 @@ The world is the totality of facts, not of things. </summary><blockquote>
 <text markdown='span'>&nbsp;  
 1.11  
 The world is determined by the facts, and by these being *all* the facts.  
-
+&nbsp;  
 1.12  
 For the totality of facts determines both what is the case, and also all that is not the case.  
-
+&nbsp;  
 1.13  
 The facts in logical space are the world. </text>
 
