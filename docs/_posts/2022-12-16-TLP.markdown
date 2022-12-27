@@ -35,6 +35,19 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 ### Tractatus Logico-Philosophicus
 
+
+
+
+<details><summary> I am going crazy. </summary>
+> <details><summary> I will eat you. </summary>
+> > For lunch.
+> > 
+> > For dinner.
+> </details>
+</details>
+
+
+
 <details><summary> 1. The world is everything that is the case. </summary><blockquote>
 
 
