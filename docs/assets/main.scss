@@ -6,10 +6,12 @@
 
 blockquote {
   color: $text-color;
-  padding-left: $spacing-unit;
+  padding-left: $spacing-unit / 2;
   @include relative-font-size(1);
   letter-spacing: normal;
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  margin-top: $spacing-unit
+  margin-bottom: $spacing-unit
 
   > :last-child {
     margin-bottom: 0;
