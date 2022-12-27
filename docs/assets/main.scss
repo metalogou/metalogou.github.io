@@ -5,9 +5,9 @@
 @import "minima";
 
 blockquote {
-  color: $grey-color;
-  padding-left: $spacing-unit / 4;
-  @include relative-font-size(5);
+  color: $text-color;
+  padding-left: $spacing-unit / 8;
+  @include relative-font-size(1);
   letter-spacing: normal;
   font-style: normal;
 
