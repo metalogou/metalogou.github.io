@@ -52,7 +52,7 @@ Any one can either be the case or not be the case, and everything else remain th
 <details><summary markdown='span'> 2  
 What is the case, the fact, is the existence of atomic facts. </summary><blockquote>
 &nbsp;  
-<details><summary markdown='span'> 2.0  </summary><blockquote>
+<details><summary markdown='span'> 2.0 </summary><blockquote>
 
 
 
@@ -84,23 +84,53 @@ The picture has the logical form of representation in common with what it pictur
 &nbsp;  
 <details><summary markdown='span'> 3  
 The logical picture of the facts is the thought. </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 3.0 </summary><blockquote>
 
-3.0
 
-3.1  
-In the proposition the thought is expressed perceptibly through the senses.
 
-3.2  
-In propositions thoughts can be so expressed that to the objects of the thoughts correspond the elements of the propositional sign.
+</blockquote>
 
-3.3  
-Only the proposition has sense; only in the context of a proposition has a name meaning.
+</details>
+&nbsp;  
+<details><summary markdown='span'> 3.1  
+In the proposition the thought is expressed perceptibly through the senses. </summary><blockquote>
 
-3.4  
-The proposition determines a place in logical space: the existence of this logical place is guaranteed by the existence of the constituent parts alone, by the existence of the significant proposition.
 
-3.5  
-The applied, thought, propositional sign is the thought.
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 3.2  
+In propositions thoughts can be so expressed that to the objects of the thoughts correspond the elements of the propositional sign. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 3.3  
+Only the proposition has sense; only in the context of a proposition has a name meaning. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 3.4  
+The proposition determines a place in logical space: the existence of this logical place is guaranteed by the existence of the constituent parts alone, by the existence of the significant proposition. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<text markdown='span'> 3.5  
+The applied, thought, propositional sign is the thought. </text>
 
 </blockquote>
 
