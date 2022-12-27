@@ -21,31 +21,47 @@ If this work has a value it consists in two things. First that in it thoughts ar
 
 On the other hand the *truth* of the thoughts communicated here seems to me unassailable and definitive. I am, therefore, of the opinion that the problems have in essentials been finally solved. And if I am not mistaken in this, then the value of this work secondly consists in the fact that it shows how little has been done when these problems have been solved.
 
+<details>
 
+<summary>
 
-<details><summary> 1. The world is everything that is the case. </summary>
+1   The world is everything that is the case.
+
+</summary>
 
 <blockquote>
 
-<details><summary markdown='span'> 1.1. The world is the totality of facts, not of things. </summary>
+<details>
+
+<summary markdown='span'>
+
+1.1   The world is the totality of facts, not of things.
+
+</summary>
 
 <blockquote markdown='span'>
 
-1.11. The world is determined by the facts, and by these being *all* the facts.
+1.11   The world is determined by the facts, and by these being *all* the facts.
  
+1.12   For the totality of facts determines both what is the case, and also all that is not the case.
  
-1.12. For the totality of facts determines both what is the case, and also all that is not the case.
- 
- 
-1.13. The facts in logical space are the world.
+1.13   The facts in logical space are the world.
 
 </blockquote>
 
 </details>
 
-<details><summary> 1.2. The world divides into facts. </summary><blockquote>
+<details>
 
-1.21. Any one can either be the case or not be the case, and everything else remain the same.
+<summary>
+
+1.2   The world divides into facts.
+
+</summary>
+
+<blockquote>
+
+1.21   Any one can either be the case or not be the case, and everything else remain the same.
 
 </blockquote>
 
@@ -54,63 +70,3 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 </blockquote>
 
 </details>
-
-
-
-
-
-<details><summary markdown='span'> 2. What is the case, the fact, is the existence of atomic facts. </summary><blockquote markdown='span'>
-
-
- <details><summary markdown='span'> 2.0 </summary><blockquote markdown='span'>
-  
-  2.01
-  
-  2.02
-  
-  2.03
-  
-  2.04
-  
-  2.05
-  
-  2.06
-  
- </blockquote></details>
- 
-
- <details><summary markdown='span'> 2.1. </summary><blockquote markdown='span'>
-  
-  2.11
-  
-  2.12
-  
-  2.13
-  
-  2.14
-  
-  2.15
-  
-  2.16
-  
-  2.17
-  
-  2.18
-  
-  2.19
-  
- </blockquote></details>
- 
-  <details><summary markdown='span'> 2.2. </summary><blockquote markdown='span'>
-  
-  2.20
-  
-  2.21
-  
- </blockquote></details>
- 
-
-</blockquote></details>
-
-
-
