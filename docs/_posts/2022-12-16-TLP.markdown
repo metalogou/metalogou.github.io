@@ -66,15 +66,11 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 <details><summary markdown='span'> 1.1 The world is the *totality* of facts, not of things. </summary><blockquote>
 
-<text markdown='span'>
-
-1.11 The world is determined by the facts, and by these being *all* the facts.
+<text markdown='span'> 1.11 The world is determined by the facts, and by these being *all* the facts. </text>
  
-1.12 For the totality of *facts* determines both what is the case, and also all that is not the case.
+<text markdown='span'> 1.12 For the totality of *facts* determines both what is the case, and also all that is not the case. </text>
  
-1.13 The facts in logical *space* are the world.
-
-</text>
+<text markdown='span'> 1.13 The facts in logical *space* are the world. </text>
 
 </blockquote>
 
@@ -90,21 +86,13 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 <details><summary markdown='span'> 1.22 He never *said* this. </summary><blockquote>
 
-<text markdown='span'>
-
-<p> 1.221 Or *this*. </p>
+<text markdown='span'> 1.221 Or *this*. </text>
  
-<p> 1.222 Or *this*. </p>
-
-</text>
+<text markdown='span'> 1.222 Or *this*. </text>
 
 <details><summary markdown='span'> 1.223 Or *this*. </summary><blockquote>
 
-<text markdown='span'>
-
-1.2231 *Or* this!
-
-</text>
+<text markdown='span'> 1.2231 *Or* this! </text>
 
 </blockquote>
 
