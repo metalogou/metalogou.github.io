@@ -7,7 +7,7 @@
 blockquote {
   color: $text-color;
   padding-left: $spacing-unit / 4;
-  @include relative-font-size(1);
+  @include relative-font-size(5);
   letter-spacing: normal;
   font-style: normal;
 
