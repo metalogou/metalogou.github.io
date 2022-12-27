@@ -14,6 +14,7 @@ ul, ol, dl, figure,
 
 blockquote {
   color: $text-color;
+  border-left: 0px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1);
   letter-spacing: normal;
