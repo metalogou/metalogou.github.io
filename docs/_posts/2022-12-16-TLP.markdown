@@ -55,10 +55,8 @@ Any one can either be the case or not be the case, and everything else remain th
 
 </blockquote>
 
-</details>
-
-
-
+</details>  
+  
 <details><summary markdown='span'> 2.  
 What is the case, the fact, is the existence of atomic facts. </summary><blockquote>
 
@@ -70,10 +68,8 @@ What is the case, the fact, is the existence of atomic facts. </summary><blockqu
 
 </blockquote>
 
-</details>
-
-
-
+</details>  
+  
 <details><summary markdown='span'> 3.  
 The logical picture of the facts is the thought. </summary><blockquote>
 
@@ -91,10 +87,8 @@ The logical picture of the facts is the thought. </summary><blockquote>
 
 </blockquote>
 
-</details>
-
-
-
+</details>  
+  
 <details><summary markdown='span'> 4.  
 The thought is the significant proposition. </summary><blockquote>
 
@@ -112,10 +106,8 @@ The thought is the significant proposition. </summary><blockquote>
 
 </blockquote>
 
-</details>
-
-
-
+</details>  
+  
 <details><summary markdown='span'> 5.  
 Propositions are truth-functions of elementary propositions.  
 (An elementary proposition is a truth-function of itself.) </summary><blockquote>
@@ -136,10 +128,8 @@ Propositions are truth-functions of elementary propositions.
 
 </blockquote>
 
-</details>
-
-
-
+</details>  
+  
 <details><summary markdown='span'> 6.  
 The general form of truth-function is:  
 This is the general form of proposition. </summary><blockquote>
@@ -158,9 +148,7 @@ This is the general form of proposition. </summary><blockquote>
 
 </blockquote>
 
-</details>
-
-
-
+</details>  
+  
 <text markdown='span'> 7.  
 Whereof one cannot speak, thereof one must be silent. </text>
