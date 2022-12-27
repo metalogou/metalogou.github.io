@@ -88,7 +88,7 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 <details>
 
-<summary> 1.22 He never *said* this. </summary><blockquote>
+<summary> 1.22 He never *said* this. </summary><blockquote markdown='span'>
 
 1.221 Or *this*.
  
