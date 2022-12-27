@@ -64,11 +64,11 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 <details>
 
-<summary markdown='span'> 1 The world is *everything* that is the case. </summary><blockquote markdown='span'>
+<summary> 1 The world is *everything* that is the case. </summary><blockquote>
 
 <details>
 
-<summary markdown='span'> 1.1 The world is the *totality* of facts, not of things. </summary><blockquote markdown='span'>
+<summary> 1.1 The world is the *totality* of facts, not of things. </summary><blockquote>
  
 1.11 The world is determined by the facts, and by these being *all* the facts.
  
@@ -82,9 +82,31 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 <details>
 
-<summary markdown='span'> 1.2 The world *divides* into facts. </summary><blockquote markdown='span'>
+<summary> 1.2 The world *divides* into facts. </summary><blockquote>
 
 1.21 Any one can either be the case or not be the case, and *everything* else remain the same.
+
+<details>
+
+<summary> 1.22 He never *said* this. </summary><blockquote>
+
+1.221 Or *this*.
+ 
+1.222 Or *this*.
+
+<details>
+
+<summary> 1.223 Or *this*. </summary><blockquote>
+
+1.2231 *Or* this!
+
+</blockquote>
+
+</details>
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
