@@ -4,7 +4,7 @@ title: "Tractatus Logico-Philosophicus"
 date: 2022-12-26
 categories:
 ---
-A treewise rendering of Charles Ogden's translation of Ludwig Wittgenstein's *Tractatus Logico-Philosophicus*, after Luciano Bazzocchi. test
+A treewise rendering of Charles Ogden's translation of Ludwig Wittgenstein's *Tractatus Logico-Philosophicus*, after Luciano Bazzocchi.
 
 
 ### Motto
@@ -62,7 +62,7 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 
 
-<details><summary> 2. What is the case, the fact, is the existence of atomic facts. </summary><blockquote>
+<details><summary> 2. What is the case, the fact, is the existence of *atomic* facts. </summary><blockquote>
 
 
  <details><summary> 2.0 </summary><blockquote>
