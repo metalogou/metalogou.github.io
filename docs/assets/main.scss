@@ -11,6 +11,10 @@ blockquote {
   letter-spacing: normal;
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
 
+  > :first-child {
+    margin-bottom: 0;
+  }
+
   > :last-child {
     margin-bottom: 0;
   }
