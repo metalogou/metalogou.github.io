@@ -40,15 +40,15 @@ For the totality of facts determines both what is the case, and also all that is
 The facts in logical space are the world. </text>
 &nbsp;  
 </blockquote>
-&nbsp;  
-</details>
 
+</details>
+&nbsp;  
 <details><summary markdown='span'> 1.2  
 The world divides into facts. </summary><blockquote>
-
+&nbsp;  
 <text markdown='span'> 1.21  
 Any one can either be the case or not be the case, and everything else remain the same. </text>
-
+&nbsp;  
 </blockquote>
 
 </details>
