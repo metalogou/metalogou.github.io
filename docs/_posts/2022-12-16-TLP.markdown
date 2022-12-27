@@ -4,16 +4,6 @@ title: "Tractatus Logico-Philosophicus"
 date: 2022-12-26
 categories:
 ---
-A treewise rendering of Charles Ogden's translation of Ludwig Wittgenstein's *Tractatus Logico-Philosophicus*, after Luciano Bazzocchi.
-
-
-### Motto
-
-<ul>
-"...und alles, was man weiss, nicht bloss rauschen und brausen gehört hat, lässt sich in drei Worten sagen." (Kürnberger)
-</ul>
-
-### Preface
 
 This book will perhaps only be understood by those who have themselves already thought the thoughts which are expressed in it—or similar thoughts. It is therefore not a text-book. Its object would be attained if it afforded pleasure to one who read it with understanding.
 
@@ -32,15 +22,13 @@ If this work has a value it consists in two things. First that in it thoughts ar
 On the other hand the *truth* of the thoughts communicated here seems to me unassailable and definitive. I am, therefore, of the opinion that the problems have in essentials been finally solved. And if I am not mistaken in this, then the value of this work secondly consists in the fact that it shows how little has been done when these problems have been solved.
 
 
-### Tractatus Logico-Philosophicus
+<details><summary markdown='span'> 1. The world is *everything* that is the case. </summary markdown='span'><blockquote>
 
 
-<details><summary> 1. The world is everything that is the case. </summary><blockquote>
+ <details><summary markdown='span'> 1.1. The world is the totality of *facts*, not of things. </summary markdown='span'><blockquote>
 
-
- <details><summary> 1.1. The world is the totality of facts, not of things. </summary><blockquote>
-
-  1.11. The world is determined by the facts, and by these being *all* the facts.\\
+  1.11. The world is determined by the facts, and by these being *all* the facts.
+  
   1.12. For the totality of facts determines both what is the case, and also all that is not the case.
 
   1.13. The facts in logical space are the world.
