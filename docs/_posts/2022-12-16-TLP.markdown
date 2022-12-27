@@ -28,9 +28,7 @@ The world is determined by the facts, and by these being *all* the facts.
 For the totality of facts determines both what is the case, and also all that is not the case.  
 &nbsp;  
 1.13  
-The facts in logical space are the world.  
-&nbsp;  
-</text>
+The facts in logical space are the world. </text>
 
 </blockquote>
 
@@ -41,14 +39,12 @@ The world divides into facts. </summary><blockquote>
 
 <text markdown='span'>&nbsp;  
 1.21  
-Any one can either be the case or not be the case, and everything else remain the same.  
-&nbsp;  
-</text>
+Any one can either be the case or not be the case, and everything else remain the same. </text>
 
 </blockquote>
 
 </details>
-&nbsp;  
+
 </blockquote>
 
 </details>
@@ -81,7 +77,7 @@ The picture has the logical form of representation in common with what it pictur
 </blockquote>
 
 </details>
-&nbsp;  
+
 </blockquote>
 
 </details>
