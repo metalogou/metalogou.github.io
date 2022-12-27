@@ -36,17 +36,7 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 ### Tractatus Logico-Philosophicus
 
 
-
-
-<details><summary> I am going crazy. </summary>
-> <details><summary> I will eat you. </summary>
-> > For lunch.
-> > 
-> > For dinner.
-> </details>
-</details>
-
-
+<blockquote> *What's happening?!* </blockquote>
 
 <details><summary> 1. The world is everything that is the case. </summary><blockquote>
 
@@ -75,7 +65,7 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 
 
-<details><summary> 2. What is the case, the fact, is the existence of *atomic* facts. </summary><blockquote>
+<details><summary> 2. What is the case, the fact, is the existence of atomic facts. </summary><blockquote>
 
 
  <details><summary> 2.0 </summary><blockquote>
