@@ -46,7 +46,9 @@ The world divides into facts. </summary><blockquote>
 
 <text markdown='span'>&nbsp;  
 1.21  
-Any one can either be the case or not be the case, and everything else remain the same. </text>
+Any one can either be the case or not be the case, and everything else remain the same.  
+&nbsp;  
+</text>
 
 </blockquote>
 
@@ -130,7 +132,7 @@ Propositions are truth-functions of elementary propositions.
 </details>
 &nbsp;  
 <details><summary markdown='span'> 6  
-The general form of truth-function is:  
+The general form of truth-function is: [*p̄*, *ξ̄*, *N*(*ξ̄*)].  
 This is the general form of proposition. </summary><blockquote>
 
 6.0
