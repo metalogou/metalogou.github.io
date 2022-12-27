@@ -86,27 +86,19 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 1.21 Any one can either be the case or not be the case, and *everything* else remain the same.
 
-<details>
-
-<summary> 1.22 He never *said* this. </summary><blockquote markdown='span'>
+<details><summary> 1.22 He never *said* this. </summary><blockquote markdown='span'>
 
 1.221 Or *this*.
  
 1.222 Or *this*.
 
-<details>
-
-<summary> 1.223 Or *this*. </summary><blockquote>
+<details><summary> 1.223 Or *this*. </summary><blockquote>
 
 1.2231 *Or* this!
 
-</blockquote>
+</blockquote></details>
 
-</details>
-
-</blockquote>
-
-</details>
+</blockquote></details>
 
 </blockquote>
 
