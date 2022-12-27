@@ -111,7 +111,7 @@ In propositions thoughts can be so expressed that to the objects of the thoughts
 
 </details>
 &nbsp;  
-<details><summary markdown='span'> 3.3  
+<details><summary markdown='span'>3.3  
 Only the proposition has sense; only in the context of a proposition has a name meaning. </summary><blockquote>
 
 
@@ -129,7 +129,8 @@ The proposition determines a place in logical space: the existence of this logic
 
 </details>
 &nbsp;  
-<text markdown='span'> 3.5  
+<text markdown='span'>&nbsp;  
+3.5  
 The applied, thought, propositional sign is the thought. </text>
 
 </blockquote>
