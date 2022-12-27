@@ -30,12 +30,15 @@ The world is everything that is the case. </summary><blockquote>
 <details><summary markdown='span'> 1.1  
 The world is the totality of facts, not of things. </summary><blockquote>
 &nbsp;  
+
 <text markdown='span'> 1.11  
 The world is determined by the facts, and by these being *all* the facts.  
 &nbsp;  
+
 1.12  
 For the totality of facts determines both what is the case, and also all that is not the case.
 &nbsp;  
+
 1.13  
 The facts in logical space are the world. </text>
 &nbsp;  
@@ -43,15 +46,22 @@ The facts in logical space are the world. </text>
 
 </details>
 &nbsp;  
+
 <details><summary markdown='span'> 1.2  
 The world divides into facts. </summary><blockquote>
 &nbsp;  
+
 <text markdown='span'> 1.21  
 Any one can either be the case or not be the case, and everything else remain the same. </text>
 &nbsp;  
+&nbsp;  
+
+
 </blockquote>
 
 </details>
+&nbsp;  
+&nbsp;  
 
 </blockquote>
 
