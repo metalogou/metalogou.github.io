@@ -29,7 +29,7 @@ The world is everything that is the case. </summary><blockquote>
 &nbsp;  
 <details><summary markdown='span'> 1.1  
 The world is the totality of facts, not of things. </summary><blockquote>
-
+&nbsp;  
 <text markdown='span'> 1.11  
 The world is determined by the facts, and by these being *all* the facts.  
 
