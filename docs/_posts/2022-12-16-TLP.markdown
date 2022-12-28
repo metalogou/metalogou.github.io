@@ -139,25 +139,61 @@ The applied, thought, propositional sign is the thought. </text>
 &nbsp;  
 <details><summary markdown='span'> 4  
 The thought is the significant proposition. </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 4.0 </summary><blockquote>
 
-4.0
 
-4.1  
-A proposition presents the existence and nonexistence of atomic facts.
 
-4.2  
-The sense of a proposition is its agreement and disagreement with the possibilities of the existence and non-existence of the atomic facts.
+</blockquote>
 
-4.3  
-The truth-possibilities of the elementary propositions mean the possibilities of the existence and non-existence of the atomic facts.
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.1  
+A proposition presents the existence and nonexistence of atomic facts. </summary><blockquote>
 
-4.4  
-A proposition is the expression of agreement and disagreement with the truth-possibilities of the elementary propositions.
 
-4.5  
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.2  
+The sense of a proposition is its agreement and disagreement with the possibilities of the existence and non-existence of the atomic facts. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.3  
+The truth-possibilities of the elementary propositions mean the possibilities of the existence and non-existence of the atomic facts. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.4  
+A proposition is the expression of agreement and disagreement with the truth-possibilities of the elementary propositions. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.5  
 Now it appears to be possible to give the most general form of proposition; *i*.*e*. to give a description of the propositions of some one sign language, so that every possible sense can be expressed by a symbol, which falls under the description, and so that every symbol which falls under the description can express a sense, if the meanings of the names are chosen accordingly.  
 It is clear that in the description of the most general form of proposition only what is essential to it may be described—otherwise it would not be the most general form.  
-That there is a general form is proved by the fact that there cannot be a proposition whose form could not have been foreseen (*i*.*e*. constructed). The general form of proposition is: Such and such is the case.
+That there is a general form is proved by the fact that there cannot be a proposition whose form could not have been foreseen (*i*.*e*. constructed). The general form of proposition is: Such and such is the case.  </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
