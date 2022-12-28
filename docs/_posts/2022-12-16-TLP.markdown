@@ -212,7 +212,8 @@ Propositions are truth-functions of elementary propositions.
 </details>
 &nbsp;  
 <details><summary markdown='span'> 5.1  
-The truth-functions can be ordered in series. </summary><blockquote>
+The truth-functions can be ordered in series.  
+That is the foundation of the theory of probability. </summary><blockquote>
 
 
 
@@ -251,7 +252,7 @@ Here it becomes clear that there are no such things as "logical objects" or "log
 </details>
 &nbsp;  
 <details><summary markdown='span'> 5.5  
-Every truth-function is a result of the successive application of the operation (-----T)(*ξ*,....) to elementary propositions.  
+Every truth-function is a result of the successive application of the operation (- - - - -T)(*ξ*,....) to elementary propositions.  
 This operation denies all the propositions in the right-hand bracket and I call it the negation of these propositions. </summary><blockquote>
 
 
@@ -276,25 +277,61 @@ This operation denies all the propositions in the right-hand bracket and I call 
 <details><summary markdown='span'> 6  
 The general form of truth-function is: [*p̄*, *ξ̄*, *N*(*ξ̄*)].  
 This is the general form of proposition. </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 6.0 </summary><blockquote>
 
-6.0
 
-6.1  
-The propositions of logic are tautologies.
 
-6.2  
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.1  
+The propositions of logic are tautologies. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.2  
 Mathematics is a logical method.  
-The propositions of mathematics are equations, and therefore pseudo-propositions.
+The propositions of mathematics are equations, and therefore pseudo-propositions. </summary><blockquote>
 
-6.3  
-Logical research means the investigation of *all regularity*. And outside logic all is accident.
 
-6.4  
-All propositions are of equal value.
 
-6.5  
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.3  
+Logical research means the investigation of *all regularity*. And outside logic all is accident. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.4  
+All propositions are of equal value. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.5  
 For an answer which cannot be expressed the question too cannot be expressed.*The riddle* does not exist.  
-If a question can be put at all, then it *can* also be answered.
+If a question can be put at all, then it *can* also be answered. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
