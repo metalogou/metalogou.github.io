@@ -324,7 +324,7 @@ All propositions are of equal value. </summary><blockquote>
 </details>
 &nbsp;  
 <details><summary markdown='span'> 6.5  
-For an answer which cannot be expressed the question too cannot be expressed.*The riddle* does not exist.  
+For an answer which cannot be expressed the question too cannot be expressed.  *The riddle* does not exist.  
 If a question can be put at all, then it *can* also be answered. </summary><blockquote>
 
 
