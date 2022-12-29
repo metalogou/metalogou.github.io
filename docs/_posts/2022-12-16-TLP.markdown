@@ -1159,24 +1159,39 @@ A necessity for one thing to happen because another has happened does not exist.
 <details><summary markdown='span'> 6.4  
 All propositions are of equal value. </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 6.41  
-The sense of the world must lie outside the world. In the world everything is as it is and happens as it does happen. *In* it there is no value—and if there were, it would be of no value.
+The sense of the world must lie outside the world. In the world everything is as it is and happens as it does happen. *In* it there is no value—and if there were, it would be of no value.  
+&nbsp;  </text>
 
-6.42  
+<details><summary markdown='span'> 6.42  
 Hence also there can be no ethical propositions.  
-Propositions cannot express anything higher.
+Propositions cannot express anything higher. </summary><blockquote>
 
-6.43  
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.43  
 If good or bad willing changes the world, it can only change the limits of the world, not the facts; not the things that can be expressed in language.  
 In brief, the world must thereby become quite another. It must so to speak wax or wane as a whole.  
-The world of the happy is quite another than that of the unhappy.
+The world of the happy is quite another than that of the unhappy. </summary><blockquote>
 
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 6.44  
-Not *how* the world is, is the mystical, but *that* it is.
-
+Not *how* the world is, is the mystical, but *that* it is.  
+&nbsp;  
 6.45  
 The contemplation of the world sub specie aeterni is its contemplation as a limited whole.  
-The feeling of the world as a limited whole is the mystical feeling.
+The feeling of the world as a limited whole is the mystical feeling. </text>
 
 </blockquote>
 
