@@ -1025,18 +1025,31 @@ The general form of the cardinal number is: [0, *ξ*, *ξ*+1]. </summary><blockq
 &nbsp;  
 <details><summary markdown='span'> 6.1  
 The propositions of logic are tautologies. </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 6.11  
+The propositions of logic therefore say nothing. (They are the analytical propositions.) </summary><blockquote>
 
-6.11  
-The propositions of logic therefore say nothing. (They are the analytical propositions.)
 
-6.12  
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.12  
 The fact that the propositions of logic are tautologies *shows* the formal—logical—properties of language, of the world.  
 That its constituent parts connected together *in this way* give a tautology characterizes the logic of its constituent parts.  
-In order that propositions connected together in a definite way may give a tautology they must have definite properties of structure. That they give a tautology when so connected shows therefore that they possess these properties of structure.
+In order that propositions connected together in a definite way may give a tautology they must have definite properties of structure. That they give a tautology when so connected shows therefore that they possess these properties of structure. </summary><blockquote>
 
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 6.13  
 Logic is not a theory but a reflexion of the world.  
-Logic is transcendental.
+Logic is transcendental. </text>
 
 </blockquote>
 
