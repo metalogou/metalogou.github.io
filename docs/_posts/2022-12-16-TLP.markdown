@@ -179,14 +179,28 @@ The logical picture can depict the world. </text>
 &nbsp;  
 <details><summary markdown='span'> 2.2  
 The picture has the logical form of representation in common with what it pictures. </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 2.20 </summary><blockquote>
 
-2.20
 
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 2.21  
-The picture agrees with reality or not; it is right or wrong, true or false.
+The picture agrees with reality or not; it is right or wrong, true or false.  
+&nbsp;  </text>
 
-2.22  
-The picture represents what it represents, independently of its truth or falsehood, through the form of representation.
+<details><summary markdown='span'> 2.22  
+The picture represents what it represents, independently of its truth or falsehood, through the form of representation. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
