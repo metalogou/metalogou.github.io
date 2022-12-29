@@ -345,22 +345,46 @@ The name cannot be analysed further by any definition. It is a primitive sign. <
 &nbsp;  
 <details><summary markdown='span'>3.3  
 Only the proposition has sense; only in the context of a proposition has a name meaning. </summary><blockquote>
-
-3.31  
+&nbsp;  
+<details><summary markdown='span'> 3.31  
 Every part of a proposition which characterizes its sense I call an expression (a symbol).  
 (The proposition itself is an expression.)  
 Expressions are everything—essential for the sense of the proposition—that propositions can have in common with one another.  
-An expression characterizes a form and a content.
+An expression characterizes a form and a content. </summary><blockquote>
 
-3.32  
-The sign is the part of the symbol perceptible by the senses.
 
-3.33  
-In logical syntax the meaning of a sign ought never to play a rôle; it must admit of being established without mention being thereby made of the *meaning* of a sign; it ought to presuppose *only* the description of the expressions.
 
-3.34  
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 3.32  
+The sign is the part of the symbol perceptible by the senses. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 3.33  
+In logical syntax the meaning of a sign ought never to play a rôle; it must admit of being established without mention being thereby made of the *meaning* of a sign; it ought to presuppose *only* the description of the expressions. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 3.34  
 A proposition possesses essential and accidental features.  
-Accidental are the features which are due to a particular way of producing the propositional sign. Essential are those which alone enable the proposition to express its sense.
+Accidental are the features which are due to a particular way of producing the propositional sign. Essential are those which alone enable the proposition to express its sense. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
