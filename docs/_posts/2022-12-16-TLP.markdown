@@ -575,8 +575,9 @@ To these combinations correspond the same number of possibilities of the truthâ€
 <details><summary markdown='span'> 4.3  
 The truth-possibilities of the elementary propositions mean the possibilities of the existence and non-existence of the atomic facts. </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 4.31  
-The truth-possibilities can be presented by schemata of the following kind ('*T*' means 'true', '*F*' 'false'. The rows of '*T*'s' and '*F*'s' under the row of the elementary propositions mean their truth-possibilities in an easily intelligible symbolism). GRAPHIC
+The truth-possibilities can be presented by schemata of the following kind ('*T*' means 'true', '*F*' 'false'. The rows of '*T*'s' and '*F*'s' under the row of the elementary propositions mean their truth-possibilities in an easily intelligible symbolism). GRAPHIC </text>
 
 </blockquote>
 
