@@ -804,33 +804,59 @@ All truth-functions are results of the successive application of a finite number
 <details><summary markdown='span'> 5.4  
 Here it becomes clear that there are no such things as 'logical objects' or 'logical constants' (in the sense of Frege and Russell). </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 5.41  
-For all those results of truth-operations on truth-functions are identical, which are one and the same truth-function of elementary propositions.
-
+For all those results of truth-operations on truth-functions are identical, which are one and the same truth-function of elementary propositions.  
+&nbsp;  
 5.42  
 That v, ⊃, etc., are not relations in the sense of right and left, etc., is obvious.  The possibility of crosswise definition of the logical 'primitive signs' of Frege and Russell shows by itself that these are not primitive signs and that they signify no relations.  
-And it is obvious that the '⊃' which we define by means of '~' and 'v' is identical with that by which we define 'v' with the help of '~', and that this 'v' is the same as the first, and so on.
-
+And it is obvious that the '⊃' which we define by means of '~' and 'v' is identical with that by which we define 'v' with the help of '~', and that this 'v' is the same as the first, and so on.  
+&nbsp;  
 5.43  
 That from a fact *p* an infinite number of *others* should follow, namely ~~*p*, ~~~~*p*, etc., is indeed hardly to be believed, and it is no less wonderful that the infinite number of propositions of logic (of mathematics) should follow from half a dozen 'primitive propositions'.  
-But all propositions of logic say the same thing. That is, nothing.
+But all propositions of logic say the same thing. That is, nothing.  
+&nbsp;  </text>
 
-5.44  
+<details><summary markdown='span'> 5.44  
 Truth-functions are not material functions.  
 If e.g. an affirmation can be produced by repeated denial, is the denial—in any sense—contained in the affirmation?  
 Does '~~*p*' deny ~*p*, or does it affirm *p*; or both?  
 The proposition '~~*p*' does not treat of denial as an object, but the possibility of denial is already prejudged in affirmation.  
-And if there was an object called '~', then '~~*p*' would have to say something other than '*p*'. For the one proposition would then treat of ~, the other would not.
+And if there was an object called '~', then '~~*p*' would have to say something other than '*p*'. For the one proposition would then treat of ~, the other would not. </summary><blockquote>
 
-5.45  
-If there are logical primitive signs a correct logic must make clear their position relative to one another and justify their existence. The construction of logic *out of* its primitive signs must become clear.
 
-5.46  
-When we have rightly introduced the logical signs, the sense of all their combinations has been already introduced with them: therefore not only '*p* v *q*' but also '~(*p* v ~*q*)', etc. etc. We should then already have introduced the effect of all possible combinations of brackets; and it would then have become clear that the proper general primitive signs are not '*p* v *q*', '(∃*x*).*fx*', etc., but the most general form of their combinations.
 
-5.47  
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 5.45  
+If there are logical primitive signs a correct logic must make clear their position relative to one another and justify their existence. The construction of logic *out of* its primitive signs must become clear. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 5.46  
+When we have rightly introduced the logical signs, the sense of all their combinations has been already introduced with them: therefore not only '*p* v *q*' but also '~(*p* v ~*q*)', etc. etc. We should then already have introduced the effect of all possible combinations of brackets; and it would then have become clear that the proper general primitive signs are not '*p* v *q*', '(∃*x*).*fx*', etc., but the most general form of their combinations. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 5.47  
 It is clear that everything which can be said *beforehand* about the form of *all* propositions at all can be said *on one occasion*.  
-For all logical operations are already contained in the elementary proposition. For '*fa*' says the same as '(∃*x*).*fx*.*x* = *a*'.  Where there is composition, there is argument and function, and where these are, all logical constants already are.  One could say: the one logical constant is that which all propositions, according to their nature, have in common with one another.  That however is the general form of proposition.
+For all logical operations are already contained in the elementary proposition. For '*fa*' says the same as '(∃*x*).*fx*.*x* = *a*'.  Where there is composition, there is argument and function, and where these are, all logical constants already are.  One could say: the one logical constant is that which all propositions, according to their nature, have in common with one another.  That however is the general form of proposition. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
