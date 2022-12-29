@@ -1058,20 +1058,40 @@ Logic is transcendental. </text>
 <details><summary markdown='span'> 6.2  
 Mathematics is a logical method.  
 The propositions of mathematics are equations, and therefore pseudo-propositions. </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 6.21  
+Mathematical propositions express no thoughts. </summary><blockquote>
 
-6.21  
-Mathematical propositions express no thoughts.
 
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 6.22  
-The logic of the world which the propositions of logic show in tautologies, mathematics shows in equations.
+The logic of the world which the propositions of logic show in tautologies, mathematics shows in equations.  
+&nbsp;  </text>
 
-6.23  
+<details><summary markdown='span'> 6.23  
 If two expressions are connected by the sign of equality, this means that they can be substituted for one another. But whether this is the case must show itself in the two expressions themselves.  
-It characterizes the logical form of two expressions, that they can be substituted for one another.
+It characterizes the logical form of two expressions, that they can be substituted for one another. </summary><blockquote>
 
-6.24  
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.24  
 The method by which mathematics arrives at its equations is the method of substitution.  
-For equations express the substitutability of two expressions, and we proceed from a number of equations to new equations, replacing expressions by others in accordance with the equations.
+For equations express the substitutability of two expressions, and we proceed from a number of equations to new equations, replacing expressions by others in accordance with the equations. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
