@@ -392,14 +392,21 @@ Accidental are the features which are due to a particular way of producing the p
 &nbsp;  
 <details><summary markdown='span'> 3.4  
 The proposition determines a place in logical space: the existence of this logical place is guaranteed by the existence of the constituent parts alone, by the existence of the significant proposition. </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 3.41  
+The propositional sign and the logical coordinates: that is the logical place. </summary><blockquote>
 
-3.41  
-The propositional sign and the logical coordinates: that is the logical place.
 
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 3.42  
 Although a proposition may only determine one place in logical space, the whole logical space must already be given by it.  
 (Otherwise denial, the logical sum, the logical product, etc., would always introduce new elements—in co-ordination.)  
-(The logical scaffolding round the picture determines the logical space. The proposition reaches through the whole logical space.)
+(The logical scaffolding round the picture determines the logical space. The proposition reaches through the whole logical space.) </text>
 
 </blockquote>
 
