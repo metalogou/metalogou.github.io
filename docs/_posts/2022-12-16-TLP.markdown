@@ -424,31 +424,69 @@ The applied, thought, propositional sign is the thought. </text>
 The thought is the significant proposition. </summary><blockquote>
 &nbsp;  
 <details><summary markdown='span'> 4.0 </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 4.00 </summary><blockquote>
 
-4.00
 
-4.01  
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.01  
 The proposition is a picture of reality.  
-The proposition is a model of the reality as we think it is.
+The proposition is a model of the reality as we think it is. </summary><blockquote>
 
-4.02  
-This we see from the fact that we understand the sense of the propositional sign, without having had it explained to us.
 
-4.03  
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.02  
+This we see from the fact that we understand the sense of the propositional sign, without having had it explained to us. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.03  
 A proposition must communicate a new sense with old words.  
 The proposition communicates to us a state of affairs, therefore it must be *essentially* connected with the state of affairs.  
 And the connexion is, in fact, that it is its logical picture.  
-The proposition only asserts something, in so far as it is a picture.
+The proposition only asserts something, in so far as it is a picture. </summary><blockquote>
 
-4.04  
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.04  
 In the proposition there must be exactly as many things distinguishable as there are in the state of affairs, which it represents.  
-They must both possess the same logical (mathematical) multiplicity (cf. Hertz's Mechanics, on Dynamic Models).
+They must both possess the same logical (mathematical) multiplicity (cf. Hertz's Mechanics, on Dynamic Models). </summary><blockquote>
 
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 4.05  
-Reality is compared with the proposition.
+Reality is compared with the proposition.  
+&nbsp;  </text>
 
-4.06  
-Propositions can be true or false only by being pictures of the reality.
+<details><summary markdown='span'> 4.06  
+Propositions can be true or false only by being pictures of the reality. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
