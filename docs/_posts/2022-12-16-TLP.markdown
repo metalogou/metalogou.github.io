@@ -789,12 +789,13 @@ The truth-operation is the way in which a truth-function arises from elementary 
 According to the nature of truth-operations, in the same way as out of elementary propositions arise their truth-functions, from truth-functions arises a new one. Every truth-operation creates from truth-functions of elementary propositions another truth-function of elementary propositions, i.e. a proposition. The result of every truth-operation on the results of truth-operations on elementary propositions is also the result of *one* truth-operation on elementary propositions.  
 Every proposition is the result of truth-operations on elementary propositions. </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 5.31  
 The Schemata No. 4.31 are also significant, if '*p*', '*q*', '*r*', etc. are not elementary propositions.  
-And it is easy to see that the propositional sign in No. 4.42 expresses one truth-function of elementary propositions even when '*p*' and '*q*' are truth-functions of elementary propositions.
-
+And it is easy to see that the propositional sign in No. 4.42 expresses one truth-function of elementary propositions even when '*p*' and '*q*' are truth-functions of elementary propositions.  
+&nbsp;  
 5.32  
-All truth-functions are results of the successive application of a finite number of truth-operations to elementary propositions.
+All truth-functions are results of the successive application of a finite number of truth-operations to elementary propositions. </text>
 
 </blockquote>
 
