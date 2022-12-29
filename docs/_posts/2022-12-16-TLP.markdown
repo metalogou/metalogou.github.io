@@ -645,14 +645,15 @@ Now it appears to be possible to give the most general form of proposition; i.e.
 It is clear that in the description of the most general form of proposition only what is essential to it may be described—otherwise it would not be the most general form.  
 That there is a general form is proved by the fact that there cannot be a proposition whose form could not have been foreseen (i.e. constructed). The general form of proposition is: Such and such is the case.  </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 4.51  
-Suppose *all* elementary propositions were given me : then we can simply ask: what propositions I can build out of them. And these are *all* propositions and *so* are they limited.
-
+Suppose *all* elementary propositions were given me : then we can simply ask: what propositions I can build out of them. And these are *all* propositions and *so* are they limited.  
+&nbsp;  
 4.52  
-The propositions are everything which follows from the totality of all elementary propositions (of course also from the fact that it is the *totality of them all*). (So, in some sense, one could say, that *all* propositions are generalizations of the elementary propositions.)
-
+The propositions are everything which follows from the totality of all elementary propositions (of course also from the fact that it is the *totality of them all*). (So, in some sense, one could say, that *all* propositions are generalizations of the elementary propositions.)  
+&nbsp;  
 4.53  
-The general propositional form is a variable.
+The general propositional form is a variable. </text>
 
 </blockquote>
 
