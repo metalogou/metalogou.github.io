@@ -87,7 +87,7 @@ The totality of existent atomic facts is the world.
 &nbsp;  
 2.05  
 The totality of existent atomic facts also determines which atomic facts do not exist. </text>
-
+&nbsp;  
 <details><summary markdown='span'> 2.06  
 The existence and non-existence of atomic facts is the reality.  
 (The existence of atomic facts we also call a positive fact, their non-existence a negative fact.) </summary><blockquote>
@@ -272,7 +272,7 @@ Although a proposition may only determine one place in logical space, the whole 
 </blockquote>
 
 </details>
-&nbsp;  
+
 <text markdown='span'>&nbsp;  
 3.5  
 The applied, thought, propositional sign is the thought. </text>
