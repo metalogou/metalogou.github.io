@@ -976,13 +976,21 @@ The general form of truth-function is: [*p̄*, *ξ̄*, *N*(*ξ̄*)].
 This is the general form of proposition. </summary><blockquote>
 &nbsp;  
 <details><summary markdown='span'> 6.0 </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 6.00 </summary><blockquote>
 
-6.00
 
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 6.01  
-The general form of the operation Ω' (*η̄*) is therefore: [*ξ̄*, *N*(*ξ̄*)]' (*η̄*) (= [*η̄*, *ξ̄*, *N*(*ξ̄*)]).
+The general form of the operation Ω' (*η̄*) is therefore: [*ξ̄*, *N*(*ξ̄*)]' (*η̄*) (= [*η̄*, *ξ̄*, *N*(*ξ̄*)]).  
+&nbsp;  </text>
 
-6.02  
+<details><summary markdown='span'> 6.02  
 And thus we come to numbers: I define  
 *x* = Ω<sup>0</sup>' *x* Def. and  
 Ω'Ω<sup>ν</sup>'*x* = Ω<sup>ν+1</sup>'*x* Def.  
@@ -994,10 +1002,22 @@ And I define:
 0+1 = 1 Def.  
 0+1+1 = 2 Def.  
 0+1+1+1 = 3 Def.  
-and so on.
+and so on. </summary><blockquote>
 
-6.03  
-The general form of the cardinal number is: [0, *ξ*, *ξ*+1].
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.03  
+The general form of the cardinal number is: [0, *ξ*, *ξ*+1]. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
