@@ -81,12 +81,10 @@ In the atomic fact objects hang one in another, like the links of a chain. </sum
 
 </details>
 &nbsp;  
-<text markdown='span'>&nbsp;  
-2.04  
+<text markdown='span'> 2.04  
 The totality of existent atomic facts is the world. </text>
 &nbsp;  
-<text markdown='span'>&nbsp;  
-2.05  
+<text markdown='span'> 2.05  
 The totality of existent atomic facts also determines which atomic facts do not exist. </text>
 &nbsp;  
 <details><summary markdown='span'> 2.06  
