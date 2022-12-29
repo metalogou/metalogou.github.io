@@ -255,23 +255,31 @@ Only if we could know a priori that a thought is true if its truth was to be rec
 <details><summary markdown='span'> 3.1  
 In the proposition the thought is expressed perceptibly through the senses. </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 3.11  
 We use the sensibly perceptible sign (sound or written sign, etc.) of the proposition as a projection of the possible state of affairs.  
-The method of projection is the thinking of the sense of the proposition.
-
+The method of projection is the thinking of the sense of the proposition.  
+&nbsp;  
 3.12  
-The sign through which we express the thought I call the propositional sign. And the proposition is the propositional sign in its projective relation to the world.
-
+The sign through which we express the thought I call the propositional sign. And the proposition is the propositional sign in its projective relation to the world.  
+&nbsp;  
 3.13  
 To the proposition belongs everything which belongs to the projection; but not what is projected.  
 Therefore the possibility of what is projected but not this itself.  
 In the proposition, therefore, its sense is not yet contained, but the possibility of expressing it.  
 ('The content of the proposition' means the content of the significant proposition.)  
-In the proposition the form of its sense is contained, but not its content.
+In the proposition the form of its sense is contained, but not its content.  
+&nbsp;  </text>
 
-3.14  
+<details><summary markdown='span'> 3.14  
 The propositional sign consists in the fact that its elements, the words, are combined in it in a definite way.  
-The propositional sign is a fact.
+The propositional sign is a fact. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
