@@ -1100,27 +1100,57 @@ For equations express the substitutability of two expressions, and we proceed fr
 <details><summary markdown='span'> 6.3  
 Logical research means the investigation of *all regularity*. And outside logic all is accident. </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 6.31  
-The so-called law of induction cannot in any case be a logical law, for it is obviously a significant proposition.—And therefore it cannot be a law a priori either.
+The so-called law of induction cannot in any case be a logical law, for it is obviously a significant proposition.—And therefore it cannot be a law a priori either.  
+&nbsp;  </text>
 
-6.32  
-The law of causality is not a law but the form of a law.
+<details><summary markdown='span'> 6.32  
+The law of causality is not a law but the form of a law. </summary><blockquote>
 
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 6.33  
-We do not *believe* a priori in a law of conservation, but we *know* a priori the possibility of a logical form.
+We do not *believe* a priori in a law of conservation, but we *know* a priori the possibility of a logical form.  
+&nbsp;  </text>
 
-6.34  
-All propositions, such as the law of causation, the law of continuity in nature, the law of least expenditure in nature, etc. etc., all these are a priori intuitions of possible forms of the propositions of science.
+<details><summary markdown='span'> 6.34  
+All propositions, such as the law of causation, the law of continuity in nature, the law of least expenditure in nature, etc. etc., all these are a priori intuitions of possible forms of the propositions of science. </summary><blockquote>
 
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 6.35  
 Although the spots in our picture are geometrical figures, geometry can obviously say nothing about their actual form and position. But the network is *purely* geometrical, and all its properties can be given a priori.  
-Laws, like the law of causation, etc., treat of the network and not of what the network describes.
+Laws, like the law of causation, etc., treat of the network and not of what the network describes.  
+&nbsp;  </text>
 
-6.36  
-If there were a law of causality, it might run: There are natural laws.  But that can clearly not be said: it shows itself.
+<details><summary markdown='span'> 6.36  
+If there were a law of causality, it might run: There are natural laws.  But that can clearly not be said: it shows itself. </summary><blockquote>
 
-6.37  
-A necessity for one thing to happen because another has happened does not exist. There is only *logical* necessity.
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 6.37  
+A necessity for one thing to happen because another has happened does not exist. There is only *logical* necessity. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
