@@ -312,7 +312,7 @@ In the proposition the name represents the object. </summary><blockquote>
 
 <text markdown='span'>&nbsp;  
 3.23  
-The postulate of the possibility of the simple signs is the postulate of the determinateness of the sense.
+The postulate of the possibility of the simple signs is the postulate of the determinateness of the sense.  
 &nbsp;  
 3.24  
 A proposition about a complex stands in internal relation to the proposition about its constituent part.  
