@@ -83,10 +83,10 @@ In the atomic fact objects hang one in another, like the links of a chain. </sum
 &nbsp;  
 <text markdown='span'> 2.04  
 The totality of existent atomic facts is the world. </text>
-&nbsp;  
+<text> &nbsp;  </text>
 <text markdown='span'> 2.05  
 The totality of existent atomic facts also determines which atomic facts do not exist. </text>
-&nbsp;  
+<text> &nbsp;  </text>
 <details><summary markdown='span'> 2.06  
 The existence and non-existence of atomic facts is the reality.  
 (The existence of atomic facts we also call a positive fact, their non-existence a negative fact.) </summary><blockquote>
