@@ -298,7 +298,7 @@ In propositions thoughts can be so expressed that to the objects of the thoughts
 
 <text markdown='span'>&nbsp;  
 3.21  
-To the configuration of the simple signs in the propositional sign corresponds the configuration of the objects in the state of affairs.
+To the configuration of the simple signs in the propositional sign corresponds the configuration of the objects in the state of affairs.  
 &nbsp;  </text>
 
 <details><summary markdown='span'> 3.22  
