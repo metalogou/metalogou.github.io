@@ -106,33 +106,72 @@ The existence and non-existence of atomic facts is the reality.
 <details><summary markdown='span'> 2.1  
 We make to ourselves pictures of facts. </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 2.11  
-The picture presents the facts in logical space, the existence and non-existence of atomic facts.
-
+The picture presents the facts in logical space, the existence and non-existence of atomic facts.  
+&nbsp;  
 2.12  
-The picture is a model of reality.
+The picture is a model of reality.  
+&nbsp;  </text>
 
-2.13  
-To the objects correspond in the picture the elements of the picture.
+<details><summary markdown='span'> 2.13  
+To the objects correspond in the picture the elements of the picture. </summary><blockquote>
 
-2.14  
-The picture consists in the fact that its elements are combined with one another in a definite way.
 
-2.15  
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 2.14  
+The picture consists in the fact that its elements are combined with one another in a definite way. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 2.15  
 That the elements of the picture are combined with one another in a definite way, represents that the things are so combined with one another.  
-This connexion of the elements of the picture is called its structure,and the possibility of this structure is called the form of representation of the picture.
+This connexion of the elements of the picture is called its structure,and the possibility of this structure is called the form of representation of the picture. </summary><blockquote>
 
-2.16  
-In order to be a picture a fact must have something in common with what it pictures.
 
-2.17  
-What the picture must have in common with reality in order to be able to represent it after its manner—rightly or falsely—is its form of representation.
 
-2.18  
-What every picture, of whatever form, must have in common with reality in order to be able to represent it at all—rightly or falsely—is the logical form, that is, the form of reality.
+</blockquote>
 
+</details>
+&nbsp;  
+<details><summary markdown='span'> 2.16  
+In order to be a picture a fact must have something in common with what it pictures. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 2.17  
+What the picture must have in common with reality in order to be able to represent it after its manner—rightly or falsely—is its form of representation. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 2.18  
+What every picture, of whatever form, must have in common with reality in order to be able to represent it at all—rightly or falsely—is the logical form, that is, the form of reality. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 2.19  
-The logical picture can depict the world.
+The logical picture can depict the world. </text>
 
 </blockquote>
 
