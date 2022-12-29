@@ -669,13 +669,14 @@ Propositions are truth-functions of elementary propositions.
 &nbsp;  
 <details><summary markdown='span'> 5.0 </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 5.01  
-The elementary propositions are the truth-arguments of propositions.
-
+The elementary propositions are the truth-arguments of propositions.  
+&nbsp;  
 5.02  
 It is natural to confuse the arguments of functions with the indices of names. For I recognize the meaning of the sign containing it from the argument just as much as from the index.  
 In Russell's '+<sub>c</sub>', for example, '<sub>c</sub>' is an index which indicates that the whole sign is the addition sign for cardinal numbers. But this way of symbolizing depends on arbitrary agreement, and one could choose a simple sign instead of '+<sub>c</sub>': but in '~*p*' '*p*' is not an index but an argument; the sense of '~*p*' *cannot* be understood, unless the sense of '*p*' has previously been understood. (In the name Julius Caesar, Julius is an index. The index is always part of a description of the object to whose name we attach it, e.g. *The* Caesar of the Julian gens.)  
-The confusion of argument and index is, if I am not mistaken, at the root of Frege's theory of the meaning of propositions and functions. For Frege the propositions of logic were names and their arguments the indices of these names.
+The confusion of argument and index is, if I am not mistaken, at the root of Frege's theory of the meaning of propositions and functions. For Frege the propositions of logic were names and their arguments the indices of these names.  </text>
 
 </blockquote>
 
