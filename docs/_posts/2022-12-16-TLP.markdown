@@ -585,28 +585,56 @@ The truth-possibilities can be presented by schemata of the following kind ('*T*
 &nbsp;  
 <details><summary markdown='span'> 4.4  
 A proposition is the expression of agreement and disagreement with the truth-possibilities of the elementary propositions. </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 4.41  
+The truth-possibilities of the elementary propositions are the conditions of the truth and falsehood of the propositions. </summary><blockquote>
 
-4.41  
-The truth-possibilities of the elementary propositions are the conditions of the truth and falsehood of the propositions.
 
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 4.42  
-With regard to the agreement and disagreement of a proposition with the truth-possibilities of *n* elementary propositions there are GRAPHIC possibilities.
+With regard to the agreement and disagreement of a proposition with the truth-possibilities of *n* elementary propositions there are GRAPHIC possibilities.  
+&nbsp;  </text>
 
-4.43  
-Agreement with the truth-possibilities can be expressed by co-ordinating with them in the schema the mark '*T*' (true).
+<details><summary markdown='span'> 4.43  
+Agreement with the truth-possibilities can be expressed by co-ordinating with them in the schema the mark '*T*' (true). </summary><blockquote>
 
-4.44  
-The sign which arises from the co-ordination of that mark '*T*' with the truth-possibilities is a propositional sign.
 
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.44  
+The sign which arises from the co-ordination of that mark '*T*' with the truth-possibilities is a propositional sign. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 4.45  
 For *n* elementary propositions there are *L<sub>n</sub>* possible groups of truth-conditions.  
-The groups of truth-conditions which belong to the truth-possibilities of a number of elementary propositions can be ordered in a series.
+The groups of truth-conditions which belong to the truth-possibilities of a number of elementary propositions can be ordered in a series.  
+&nbsp;  </text>
 
-4.46  
+<details><summary markdown='span'> 4.46  
 Among the possible groups of truth-conditions there are two extreme cases.  
 In the one case the proposition is true for all the truth-possibilities of the elementary propositions. We say that the truth-conditions are *tautological*.  
 In the second case the proposition is false for all the truth-possibilities. The truth-conditions are *self-contradictory*.  
-In the first case we call the proposition a tautology, in the second case a contradiction.
+In the first case we call the proposition a tautology, in the second case a contradiction. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
