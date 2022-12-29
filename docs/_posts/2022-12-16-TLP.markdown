@@ -1201,19 +1201,28 @@ The feeling of the world as a limited whole is the mystical feeling. </text>
 For an answer which cannot be expressed the question too cannot be expressed.  *The riddle* does not exist.  
 If a question can be put at all, then it *can* also be answered. </summary><blockquote>
 
+<text markdown='span'>&nbsp;  
 6.51  
 Scepticism is *not* irrefutable, but palpably senseless, if it would doubt where a question cannot be asked.  
-For doubt can only exist where there is a question; a question only where there is an answer, and this only where something *can* be *said*.
+For doubt can only exist where there is a question; a question only where there is an answer, and this only where something *can* be *said*.  
+&nbsp;  </text>
 
-6.52  
-We feel that even if *all possible* scientific questions be answered, the problems of life have still not been touched at all. Of course there is then no question left, and just this is the answer.
+<details><summary markdown='span'> 6.52  
+We feel that even if *all possible* scientific questions be answered, the problems of life have still not been touched at all. Of course there is then no question left, and just this is the answer. </summary><blockquote>
 
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 6.53  
-The right method of philosophy would be this. To say nothing except what can be said, i.e. the propositions of natural science, i.e. something that has nothing to do with philosophy: and then always, when someone else wished to say something metaphysical, to demonstrate to him that he had given no meaning to certain signs in his propositions. This method would be unsatisfying to the other—he would not have the feeling that we were teaching him philosophy—but it would be the only strictly correct method.
-
+The right method of philosophy would be this. To say nothing except what can be said, i.e. the propositions of natural science, i.e. something that has nothing to do with philosophy: and then always, when someone else wished to say something metaphysical, to demonstrate to him that he had given no meaning to certain signs in his propositions. This method would be unsatisfying to the other—he would not have the feeling that we were teaching him philosophy—but it would be the only strictly correct method.  
+&nbsp;  
 6.54  
 My propositions are elucidatory in this way: he who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them. (He must so to speak throw away the ladder, after he has climbed up on it.)  
-He must surmount these propositions; then he sees the world rightly.
+He must surmount these propositions; then he sees the world rightly. </text>
 
 </blockquote>
 
