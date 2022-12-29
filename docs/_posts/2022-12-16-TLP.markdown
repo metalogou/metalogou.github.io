@@ -520,32 +520,53 @@ To be able to represent the logical form, we should have to be able to put ourse
 &nbsp;  
 <details><summary markdown='span'> 4.2  
 The sense of a proposition is its agreement and disagreement with the possibilities of the existence and non-existence of the atomic facts. </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 4.21  
+The simplest proposition, the elementary proposition, asserts the existence of an atomic fact. </summary><blockquote>
 
-4.21  
-The simplest proposition, the elementary proposition, asserts the existence of an atomic fact.
 
-4.22  
-The elementary proposition consists of names. It is a connexion, a concatenation, of names.
 
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 4.22  
+The elementary proposition consists of names. It is a connexion, a concatenation, of names. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 4.23  
-The name occurs in the proposition only in the context of the elementary proposition.
+The name occurs in the proposition only in the context of the elementary proposition.  
+&nbsp;  </text>
 
-4.24  
+<details><summary markdown='span'> 4.24  
 The names are the simple symbols, I indicate them by single letters ('*x*', '*y*', '*z*').  
 The elementary proposition I write as function of the names, in the form '*fx*', '*φ*(*x*,*y*)', etc.  
-Or I indicate it by the letters '*p*', '*q*', '*r*'.
+Or I indicate it by the letters '*p*', '*q*', '*r*'. </summary><blockquote>
 
+
+
+</blockquote>
+
+</details>
+
+<text markdown='span'>&nbsp;  
 4.25  
-If the elementary proposition is true, the atomic fact exists; if it is false the atomic fact does not exist.
-
+If the elementary proposition is true, the atomic fact exists; if it is false the atomic fact does not exist.  
+&nbsp;  
 4.26  
-The specification of all true elementary propositions describes the world completely. The world is completely described by the specification of all elementary propositions plus the specification, which of them are true and which false.
-
+The specification of all true elementary propositions describes the world completely. The world is completely described by the specification of all elementary propositions plus the specification, which of them are true and which false.  
+&nbsp;  
 4.27  
-With regard to the existence of *n* atomic facts there are GRAPHIC possibilities.
-
+With regard to the existence of *n* atomic facts there are GRAPHIC possibilities.  
+&nbsp;  
 4.28  
-To these combinations correspond the same number of possibilities of the truth—and falsehood—of *n* elementary propositions.
+To these combinations correspond the same number of possibilities of the truth—and falsehood—of *n* elementary propositions. </text>
 
 </blockquote>
 
