@@ -53,21 +53,39 @@ Any one can either be the case or not be the case, and everything else remain th
 What is the case, the fact, is the existence of atomic facts. </summary><blockquote>
 &nbsp;  
 <details><summary markdown='span'> 2.0 </summary><blockquote>
+&nbsp;  
+<details><summary markdown='span'> 2.01  
+An atomic fact is a combination of objects (entities, things). </summary><blockquote>
 
-2.01  
-An atomic fact is a combination of objects (entities, things).
 
-2.02  
-The object is simple.
 
-2.03  
-In the atomic fact objects hang one in another, like the links of a chain.
+</blockquote>
 
+</details>
+&nbsp;  
+<details><summary markdown='span'> 2.02  
+The object is simple. </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+&nbsp;  
+<details><summary markdown='span'> 2.03  
+In the atomic fact objects hang one in another, like the links of a chain.  </summary><blockquote>
+
+
+
+</blockquote>
+
+</details>
+<text markdown='span'> &nbsp;  
 2.04  
-The totality of existent atomic facts is the world.
-
+The totality of existent atomic facts is the world. </text>
+<text markdown='span'> &nbsp;  
 2.05  
-The totality of existent atomic facts also determines which atomic facts do not exist.
+The totality of existent atomic facts also determines which atomic facts do not exist. </text>
 
 2.06  
 The existence and non-existence of atomic facts is the reality.  
